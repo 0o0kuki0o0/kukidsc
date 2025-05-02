@@ -8,6 +8,9 @@
 /* Add: Scroll Bar for Servers */
 @import url("https://raw.githubusercontent.com/sadan4/discordStyles/refs/heads/main/src/qol/folderScrollBar.css");
 
+/* Remove: Distracting Elements */
+@import url("https://ukriu.github.io/cssCord/Other/noDistractions.css");
+
 /* Remove: Profile Card */
 .panels_c48ade {
   left: var(--space-sm)!important;
