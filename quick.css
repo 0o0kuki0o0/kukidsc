@@ -5,6 +5,8 @@
 /* Remove: Server Name Bar */
 @import url('https://raw.githubusercontent.com/surgedevs/visual-refresh-compact-title-bar/refs/heads/main/browser.css');
 
+/* Add: Scroll Bar for Servers */
+@import url("https://raw.githubusercontent.com/sadan4/discordStyles/refs/heads/main/src/qol/folderScrollBar.css");
 
 /* Remove: Profile Card */
 .panels_c48ade {
